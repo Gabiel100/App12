@@ -1,0 +1,7 @@
+O C++ tem um depurador muito poderoso, especialmente no Visual Studio. Ele permite inspecionar memória, registrar variáveis em tempo real e analisar a pilha de chamadas com bastante detalhe. Parece que você gostou da precisão e controle que ele oferece, né?
+
+Agora, sobre a escolha entre C++ e C#…
+
+C++ te dá mais controle sobre o gerenciamento de memória e otimização de desempenho, o que pode ser essencial para um analisador léxico eficiente.
+
+C# tem uma sintaxe mais moderna e uma gestão automática de memória com o garbage collector, o que pode simplificar o desenvolvimento.
